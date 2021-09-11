@@ -1,6 +1,6 @@
 # Desarrollo de Aplicaciones I 
 
-<b>Ramas -></b>
+<b>Ramas:</b>
 <br>
 <br>
 <i> * main -> La versión que va a producción. </i>
@@ -10,7 +10,7 @@
 <i> * master_database -> Scripts de base de datos, Tablas y Stored procedure. </i>
 <br>
 
-<b>Prefijos -></b>
+<b>Prefijos ></b>
 <br>
 <br>
 <i> * feature -> Flujo/Cambio nuevo. </i> 
