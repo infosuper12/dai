@@ -10,7 +10,7 @@
 <i> * master_database -> Scripts de base de datos, Tablas y Stored procedure. </i>
 <br>
 
-<b>Prefijos ></b>
+<b>Prefijos:</b>
 <br>
 <br>
 <i> * feature -> Flujo/Cambio nuevo. </i> 
@@ -19,13 +19,13 @@
 <br>
 
 
-<b>Archivos -></b>
+<b>Archivos:</b>
 <br>
 <br>
 <i> * .gitignore -> Ejecuta una función que ignora los archivos mencionados en el mismo [ NO BORRAR ] </i> 
 
 
-<b>Integrantes -></b>
+<b>Integrantes:</b>
 <br>
 <br>
 <i> - Alejandro Icochea </i>
