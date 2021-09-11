@@ -1,10 +1,12 @@
+/* 
+   * Desarrollo de Aplicaciones I 
+   * repositorio: https://github.com/domperhu/master_database
+*/
 create database liber
 use database liber
 
 -- Tables
 
-    create table tbEmpleados
-    (
-	idEmpleado int identity(1,1) primary key
-    )
+    /* Ingrese scripst para las tablas */
+
 -- end Tables
