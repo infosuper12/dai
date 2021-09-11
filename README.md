@@ -1,6 +1,6 @@
 # Desarrollo de Aplicaciones I 
 
-<h4>Ramas:</h4>
+<b>Ramas:</b>
 <br>
 <br>
 <i> * main -> La versión que va a producción. </i>
