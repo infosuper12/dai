@@ -5,7 +5,6 @@ use database liber
 
     create table tbEmpleados
     (
-	idEmpleado int identity(1,1) primary key,
-	nombre varchar(100) unique not null
+	idEmpleado int identity(1,1) primary key
     )
 -- end Tables
