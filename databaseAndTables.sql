@@ -1,6 +1,6 @@
 /* 
    * Desarrollo de Aplicaciones I 
-   * repositorio: https://github.com/domperhu/master_database
+   * repositorio: https://github.com/domperhu/dai/master_database
 */
 use master
 create database liber
