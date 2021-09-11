@@ -1,2 +1,2 @@
 # Desarrollo de Aplicaciones I  
-<a href=""><i>autores</i></a>
+<a href=""><i>Ver autores</i></a>
