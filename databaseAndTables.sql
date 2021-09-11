@@ -3,6 +3,8 @@ use database liber
 
 -- Tables
 
-    /* Ingrese scripst para las tablas */
-    create table tbEmpleados()
+    create table tbEmpleados
+    (
+	idEmpleado int identity(1,1) primary key
+    )
 -- end Tables
