@@ -9,5 +9,13 @@ use database liber
 -- Tables
 
     /* Ingrese scripst para las tablas */
+    create table tbEmpleados
+    (
+        idEmpleado  int identity(1,1) primary key,
+        nombre      varchar(100)         not null,
+        apellido    varchar(100)         not null,
+        rol         char                 not null,
+        fechaInicio date                 not null
+    )
 
 -- end Tables
