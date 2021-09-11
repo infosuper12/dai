@@ -5,7 +5,7 @@
 <br>
 <i> * main -> La versión que va a producción. </i>
 <br>
-<i> * staging -> La versión la cual hará como TestFlight. </i>
+<i> * staging -> La versión que hará como TestFlight. </i>
 <br>
 <i> * master_database -> Scripts de base de datos, Tablas y Stored procedure. </i>
 <br>
