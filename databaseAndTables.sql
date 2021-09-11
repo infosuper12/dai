@@ -4,6 +4,20 @@
 */
 use master
 create database liber
+/*
+on primary
+(	name= 'liberData',
+	filename = 'C:\Windows\liber_Dat.mdf',
+	size=10mb,
+	maxsize=100mb,
+	filegrowth=25 )
+log on 
+(	name='liberLog',
+	filename='C:\Windows\liber_Log.ldf',
+	size=5mb,
+	maxsize=100mb,
+	filegrowth=10 )
+*/
 use database liber
 
 -- Tables
