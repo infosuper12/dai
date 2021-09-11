@@ -14,6 +14,8 @@ use database liber
         idEmpleado  int identity(1,1) primary key,
         nombre      varchar(100)         not null,
         apellido    varchar(100)         not null,
+        usuario     varchar(50)   unique not null,
+        clave       varchar(50)          not null,
         rol         char                 not null,
         fechaInicio date                 not null
     )
